@@ -9,6 +9,8 @@ body, html {
 
 body {
     padding: 20px;
+    max-width: 600px;
+    margin: auto;
 }
 
 a {
@@ -51,6 +53,7 @@ a {
 }
 
 .help-label {
+    cursor: pointer;
     margin: 30px 0px;
     font-family: Verdana;
     font-size: 18px;
