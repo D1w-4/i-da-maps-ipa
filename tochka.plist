@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.20.112:8000/tochka.ipa</string>
+					<string>https://raw.githubusercontent.com/D1w-4/i-da-maps-ipa/master/tochka.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
