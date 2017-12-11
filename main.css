@@ -62,7 +62,9 @@ a {
     padding: 20px 20px;
     border-bottom: 1px solid #444242;
 }
-
+.help-label span, .desc-label span{
+    float: right;
+}
 .help, .desc {
     display: none;
 }
